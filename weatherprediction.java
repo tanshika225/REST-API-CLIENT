@@ -11,7 +11,7 @@ public class Weatherprediction {
 
 	        try {
 	           
-	            String apiKey = "3691755be98f9b6631471ef1811ed584";
+	            String apiKey = "your api key";
 	            String city = "Chennai";
 
 	            String urlString = "https://api.openweathermap.org/data/2.5/weather?q="
