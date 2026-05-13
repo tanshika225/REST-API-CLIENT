@@ -75,3 +75,5 @@ Exception handling
 Using external libraries in Java projects
 
 This project also improves problem-solving and practical coding skills by demonstrating how real-time applications interact with online services.
+# output
+<img width="816" height="222" alt="Image" src="https://github.com/user-attachments/assets/1ece8c50-4db5-472f-8773-04b0184fbdeb" />
